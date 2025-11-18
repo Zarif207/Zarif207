@@ -54,10 +54,10 @@
   <a href="https://www.facebook.com/share/1A58fTwerr/?mibextid=wwXIfr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="zarifhasan207@gmail.com" target="_blank">
+  <a href="mailto:zarif207@users.noreply.github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="zarifhasan207_59562" target="_blank">
+  <a href="https://discord.com/users/1282535639484731484" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
