@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/7cc0188909c5391187b8475e3944571a/7ed2f8a5286eff5f-17/s500x750/e9d50fe4d7cc1283fc9461775820dd4f4fdf9a3f.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif"  />
 </div>
 
 ###
@@ -64,6 +64,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zarif207/zarif207/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarif207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
