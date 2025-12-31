@@ -3,11 +3,10 @@
   <img src="https://i.ibb.co.com/DfnbJf05/Whats-App-Image-2025-12-31-at-21-50-08.jpg" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Zarif Hasan</h1>
+<h1 align="center">Hi, I'm Zarif Hasan</h1>
 
 <p align="center">
   <strong>MERN Stack Developer</strong> <br/>
-  Building modern, responsive & scalable web applications
 </p>
 
 ---
