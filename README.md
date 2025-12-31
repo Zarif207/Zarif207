@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bRqYfmN4/d6121f34-91df-442e-a20b-7cd07bd2939d.jpg" alt="Banner" />
+  <img src="https://i.ibb.co.com/DfnbJf05/Whats-App-Image-2025-12-31-at-21-50-08.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Zarif Hasan</h1>
