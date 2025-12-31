@@ -4,10 +4,6 @@
 A frontend-focused MERN stack developer who enjoys turning ideas into clean, modern, and usable web experiences.
 </h4>
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif" />
-</div>
-
 <h2 align="left">👨‍🚀 About Me</h2>
 
 <h4 align="left">
