@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/kg9DZ4XN/banner.png" alt="Zarif Hasan Banner" width="100%" />
+  <img src="https://i.ibb.co/kg9DZ4XN/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Zarif Hasan</h1>
