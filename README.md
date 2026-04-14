@@ -23,17 +23,17 @@ I don’t just build features — I focus on **clean architecture, optimized per
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend & UI
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
 </p>
 
 ### ⚙️ Backend & Database
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 🛠 Tools & Ecosystem
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
@@ -42,8 +42,8 @@ I don’t just build features — I focus on **clean architecture, optimized per
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
