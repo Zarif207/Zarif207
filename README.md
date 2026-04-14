@@ -1,81 +1,11 @@
-<h1 align="center">Hi, I'm Zarif 👋</h1>
+<h1 align="center">Hi 👋, I'm Zarif HAsan</h1>
+<h3 align="center">I am a Full-Stack Developer specializing in the MERN ecosystem. I don’t just build projects — I focus on scalable architecture, clean UI, and performance-driven systems.</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zarif207&label=Profile%20views&color=0e75b6&style=flat" alt="zarif207" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
-
-## ⚡ Quick Overview
-
-I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
-I don’t just build projects — I focus on **scalable architecture, clean UI, and performance-driven systems**.
-
-- 🚀 **Current Focus:** Building scalable apps with Next.js & MERN  
-- 🧠 **Learning:** System Design, TypeScript, advanced React patterns  
-- ⚡ **Goal:** Contributing to high-impact, production-level products  
-
----
-
-## 🧩 My Tech Universe
-
-### 🎨 Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 🛠 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
-
----
-
-## 📊 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarif207&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:zarifhasan207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/zarif-hasan5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-## 🧠 Developer Mindset
-
-> Clean code. Scalable systems. Modern UI.  
-> Always learning. Always building.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
