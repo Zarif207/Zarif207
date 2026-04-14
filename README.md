@@ -1,90 +1,98 @@
-
 <p align="center">
-  <img src="https://i.ibb.co.com/DfnbJf05/Whats-App-Image-2025-12-31-at-21-50-08.jpg" alt="Banner" />
+  <img src="https://i.ibb.co.com/DfnbJf05/Whats-App-Image-2025-12-31-at-21-50-08.jpg" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Zarif Hasan</h1>
+<h1 align="center">Hi, I'm Zarif Hasan 👋</h1>
 
 <p align="center">
-  <strong>MERN Stack Developer</strong> <br/>
+  <strong>Full-Stack Developer (MERN • Next.js)</strong><br/>
+  Building scalable, modern & user-focused web applications
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Next.js-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a passionate MERN Stack developer who enjoys turning ideas into real-world web applications.  
-I like working across both frontend and backend to build complete, user-focused solutions.  
-Currently, I’m leveling up my full-stack skills by building practical projects and exploring modern web technologies.
+I’m a **Full-Stack Developer** focused on building scalable and high-performance web applications using modern technologies.
+
+I enjoy crafting clean UI experiences on the frontend and designing efficient APIs on the backend.  
+Currently, I’m pushing my limits by working on **real-world projects**, improving **system design**, and exploring **Next.js architecture**.
 
 ---
 
-##  Current Activities
+## ⚡ Current Focus
 
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🧩 Working on real-world full-stack projects  
-- ⚙️ Strengthening backend skills with **Node.js & MongoDB**  
-- ✨ Learning best practices for clean, maintainable code  
+- 🚀 Building **full-stack MERN applications**
+- 🌱 Learning **Next.js App Router & TypeScript**
+- 🧠 Improving **problem-solving & system design**
+- 🎯 Writing **clean, scalable, production-ready code**
 
 ---
 
 ## 🛠️ Tech Stack
 
-###  Frontend
+### 🎨 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" />
 </p>
 
-###  Backend
+### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-###  Tools & Platforms
+### 🧰 Tools & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-##  Connect With Me
+## 📊 GitHub Analytics
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/zarif-hasan5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:zarifhasan207@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://www.facebook.com/zarif.hasan.5059" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45"/>
-  </a>
-  <a href="mailto:zarifhasan207@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/>
+    <img src="https://img.icons8.com/fluency/48/facebook.png" height="40"/>
   </a>
 </p>
 
 ---
 
-##  GitHub Stats
+## 🧠 Developer Mindset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+- Clean code > Quick hacks  
+- Performance matters  
+- UI/UX is as important as logic  
+- Always learning, always building  
 
 ---
 
 <p align="center">
-   Feel free to explore my repositories and connect with me — always open to learning and collaboration!
+  💡 “Turning ideas into scalable digital products.”
 </p>
