@@ -1,25 +1,26 @@
-<h1 align="center">Hi, I'm Zarif 👋</h1>
+<h1 align="center">Hi, I'm Zarif Hasan 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-0a192f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focused%20on-Scalable%20Web%20Apps-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge"/>
 </p>
 
 ---
 
 ## ⚡ Quick Overview
 
-I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
-I don’t just build projects — I focus on **scalable architecture, clean UI, and performance-driven systems**.
+I’m a **Full-Stack Developer** focused on building **scalable, high-performance web applications** using the MERN stack and modern frontend technologies.
 
-- 🚀 **Current Focus:** Building scalable apps with Next.js & MERN  
-- 🧠 **Learning:** System Design, TypeScript, advanced React patterns  
-- ⚡ **Goal:** Contributing to high-impact, production-level products  
+I don’t just build features — I focus on **clean architecture, optimized performance, and intuitive user experience**.
+
+- 🚀 **Current Focus:** Next.js, scalable MERN applications  
+- 🧠 **Learning:** TypeScript, system design, advanced React patterns  
+- ⚡ **Goal:** Contributing to real-world, production-level products  
 
 ---
 
-## 🧩 My Tech Universe
+## 🧩 Tech Stack
 
 ### 🎨 Frontend & UI
 <p>
@@ -31,7 +32,7 @@ I don’t just build projects — I focus on **scalable architecture, clean UI, 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### 🛠 Tools & DevOps
+### 🛠 Tools & Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
@@ -51,7 +52,7 @@ I don’t just build projects — I focus on **scalable architecture, clean UI, 
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarif207&theme=tokyo-night&hide_border=true"/>
@@ -59,17 +60,17 @@ I don’t just build projects — I focus on **scalable architecture, clean UI, 
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:zarifhasan207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-0a192f?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/zarif-hasan5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-1f6feb?style=for-the-badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge"/>
   </a>
 </p>
 
@@ -77,5 +78,5 @@ I don’t just build projects — I focus on **scalable architecture, clean UI, 
 
 ## 🧠 Developer Mindset
 
-> Clean code. Scalable systems. Modern UI.  
-> Always learning. Always building.
+> Build clean. Think scalable. Ship fast.  
+> Always improving, always exploring modern web technologies.
