@@ -85,7 +85,7 @@ I don’t just build apps — I bend them to my will
 <tr>
 
 <!-- LEFT -->
-<td width="35%" align="center">
+<!-- <td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="130" height="130" style="border-radius:50%;" />
 
@@ -96,7 +96,7 @@ I don’t just build apps — I bend them to my will
 🟢 MERN Stack <br>
 🧠 System Design Learner
 
-</td>
+</td> -->
 
 <!-- RIGHT -->
 <td width="65%" align="center">
