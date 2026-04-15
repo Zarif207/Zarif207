@@ -88,38 +88,34 @@ I don’t just build apps — I bend them to my will
 <table width="100%">
 <tr>
 
-<!-- LEFT: PROFILE -->
+<!-- LEFT SIDE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/Zarif207/main/zarif.png" width="140" style="border-radius:50%;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="160" style="border-radius: 50%;" />
 
 <br><br>
 
-<h3>Zarif Hasan</h3>
-
-<p>
+<b>Zarif Hasan</b><br>
 ⚡ Full-Stack Developer <br>
 🟢 MERN Stack <br>
 🧠 System Design Learner
-</p>
 
 </td>
 
-<!-- RIGHT: STATS -->
+<!-- RIGHT SIDE -->
 <td width="65%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true"/>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
 
 </td>
 
 </tr>
 </table>
 
-<!-- LANGUAGES -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
 </p>
