@@ -85,13 +85,15 @@ I don’t just build apps — I bend them to my will
 
 ## 📊 GitHub Ecosystem
 
-<table width="100%">
+<p align="center">
+
+<table width="90%">
 <tr>
 
 <!-- LEFT: PROFILE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="150" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" style="border-radius: 50%; object-fit: cover;" />
 
 <br><br>
 
@@ -102,12 +104,12 @@ I don’t just build apps — I bend them to my will
 
 </td>
 
-<!-- RIGHT: STATS (SAFE VERSION) -->
-<td width="65%">
+<!-- RIGHT: STATS -->
+<td width="65%" align="center">
 
 <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark"/>
 
@@ -115,6 +117,8 @@ I don’t just build apps — I bend them to my will
 
 </tr>
 </table>
+
+</p>
 
 <br>
 
