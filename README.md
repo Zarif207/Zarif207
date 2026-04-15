@@ -85,26 +85,43 @@ I don’t just build apps — I bend them to my will
 
 ## 📊 GitHub Ecosystem
 
-<p align="center">
+<table width="100%">
+<tr>
 
-<!-- LEFT CARD (PROFILE SUMMARY) -->
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zarif207&theme=github_dark"/>
+<!-- LEFT: PROFILE -->
+<td width="35%" align="center">
 
+<img src="https://raw.githubusercontent.com/Zarif207/Zarif207/main/zarif.png" width="140" style="border-radius:50%;" />
+
+<br><br>
+
+<h3>Zarif Hasan</h3>
+
+<p>
+⚡ Full-Stack Developer <br>
+🟢 MERN Stack <br>
+🧠 System Design Learner
 </p>
 
+</td>
+
+<!-- RIGHT: STATS -->
+<td width="65%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+
+</td>
+
+</tr>
+</table>
+
+<!-- LANGUAGES -->
 <p align="center">
-
-<!-- TWO CARDS SIDE BY SIDE -->
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zarif207&theme=github_dark"/>
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<!-- STREAK CARD -->
-<img height="160" src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
 </p>
 
 ---
