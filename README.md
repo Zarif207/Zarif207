@@ -86,15 +86,13 @@ I don’t just build apps — I bend them to my will
 <table align="center" width="80%">
 <tr>
 
+<td align="center">
 
-<!-- RIGHT -->
-<td width="65%" align="center">
-
-<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark&title_color=22c55e&text_color=cbd5e1"/>
 
 </td>
 
@@ -102,7 +100,7 @@ I don’t just build apps — I bend them to my will
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark&title_color=22c55e&text_color=cbd5e1"/>
 </p>
 
 ---
@@ -125,6 +123,6 @@ I don’t just build apps — I bend them to my will
     <img src="https://img.shields.io/badge/LinkedIn-Profile-065f46?style=for-the-badge"/>
   </a>
   <a href="https://zarif-hasan.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-022c22?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Enter%20My%20Realm-022c22?style=for-the-badge" />
   </a>
 </p>
