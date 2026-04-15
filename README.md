@@ -1,70 +1,85 @@
-<h1 align="center">🟢 Hi, I'm Zarif 👋</h1>
+<h1 align="center">Hi, I'm Zarif 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Trickster%20Developer-MERN-0f172a?style=for-the-badge&color=0f172a&labelColor=065f46"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=064e3b&color=065f46"/>
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh-065f46?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Always%20Scheming-Projects-14532d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-14532d?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## ⚡ Quick Overview
 
-> "I am burdened with glorious purpose." — Loki
+I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
+I focus on building **scalable systems, clean UI, and performance-driven applications**.
 
-I’m a **Full-Stack Developer** who builds powerful, scalable systems  
-with a focus on **clean UI, performance, and real-world impact**.
-
-- 🟢 Building with **Next.js & MERN**
-- 🧩 Learning **System Design & TypeScript**
-- ⚡ Goal: Build **production-level, impactful apps**
+- 🚀 Building real-world apps with **Next.js & MERN**
+- 🧠 Learning **System Design & TypeScript**
+- ⚡ Goal: Work on **production-level products**
 
 ---
 
-## 🧩 My Tech Arsenal
+## 🧩 My Tech Universe
 
-### 🟢 Frontend & UI
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
 </p>
 
-### 🟢 Backend & Database
+</td>
+<td width="50%">
+
+### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### 🟢 Tools & Deployment
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+</td>
+<td>
+
+### 🚀 Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Ecosystem
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1"/>
+  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
 </p>
 
 ---
 
-## 📊 GitHub Power
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-## 🧪 Contribution Magic
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&theme=github-dark&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&hide_border=true"/>
-</p>
-
----
-
-## 🧙‍♂️ Loki Mode Activated
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:14532d&height=120&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&hide_border=true"/>
 </p>
 
 ---
