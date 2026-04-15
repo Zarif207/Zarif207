@@ -88,10 +88,10 @@ I don’t just build apps — I bend them to my will
 <table width="100%">
 <tr>
 
-<!-- LEFT SIDE -->
+<!-- LEFT: PROFILE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="160" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="150" style="border-radius: 50%;" />
 
 <br><br>
 
@@ -102,22 +102,25 @@ I don’t just build apps — I bend them to my will
 
 </td>
 
-<!-- RIGHT SIDE -->
+<!-- RIGHT: STATS -->
 <td width="65%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&v=2"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Zarif207&theme=dark&hide_border=true&v=2"/>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&v=2"/>
 </p>
 
 ---
