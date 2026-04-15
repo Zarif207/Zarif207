@@ -93,7 +93,7 @@ I don’t just build apps — I bend them to my will
 <!-- LEFT: PROFILE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" style="border-radius: 50%; object-fit: cover;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" height="140" style="border-radius: 50%;" />
 
 <br><br>
 
