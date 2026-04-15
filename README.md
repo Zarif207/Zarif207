@@ -61,18 +61,22 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+
 </td>
 
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true"/>
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%"/>
 </p>
 
 ---
