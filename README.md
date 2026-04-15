@@ -85,13 +85,40 @@ I don’t just build apps — I bend them to my will
 
 ## 📊 GitHub Ecosystem
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zarif207&theme=github_dark"/>
+<table width="100%">
+<tr>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="180" style="border-radius: 20px; border: 2px solid #22c55e;" />
+
+<br><br>
+
+<h3 style="color:#22c55e;">Zarif Hasan</h3>
+
+<p>
+⚡ Full-Stack Developer <br>
+🟢 MERN Stack <br>
+🧠 System Design Learner
 </p>
 
+</td>
+
+<td width="65%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zarif207&theme=github_dark&utcOffset=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
 </p>
 
 ---
