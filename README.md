@@ -2,8 +2,6 @@
   <img src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif" width="90%" />
 </p>
 
----
-
 <h1 align="center">Hi, Zarif this side</h1>
 
 <p align="center">
@@ -39,7 +37,7 @@ I don’t just build apps — I bend them to my will
 
 ## 🧩 My Tech Universe
 
-<table>
+<table align="center" width="80%">
 <tr>
 <td width="50%">
 
@@ -83,15 +81,13 @@ I don’t just build apps — I bend them to my will
 
 ## 📊 GitHub Ecosystem
 
-<p align="center">
-
-<table width="90%">
+<table align="center" width="80%">
 <tr>
 
-<!-- LEFT: PROFILE -->
+<!-- LEFT -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" style="border-radius: 999px;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="130" height="130" style="border-radius:50%;" />
 
 <br><br>
 
@@ -102,7 +98,7 @@ I don’t just build apps — I bend them to my will
 
 </td>
 
-<!-- RIGHT: STATS -->
+<!-- RIGHT -->
 <td width="65%" align="center">
 
 <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
@@ -115,10 +111,6 @@ I don’t just build apps — I bend them to my will
 
 </tr>
 </table>
-
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
