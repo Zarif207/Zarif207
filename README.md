@@ -105,11 +105,11 @@ I don’t just build apps — I bend them to my will
 <!-- RIGHT SIDE -->
 <td width="65%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
 
 </td>
 
