@@ -88,13 +88,14 @@ I don’t just build apps — I bend them to my will
 <table width="100%">
 <tr>
 
+<!-- LEFT: PROFILE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="180" style="border-radius: 20px; border: 2px solid #22c55e;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="160" style="border-radius: 50%;" />
 
 <br><br>
 
-<h3 style="color:#22c55e;">Zarif Hasan</h3>
+<h3>Zarif Hasan</h3>
 
 <p>
 ⚡ Full-Stack Developer <br>
@@ -104,21 +105,23 @@ I don’t just build apps — I bend them to my will
 
 </td>
 
-<td width="65%">
+<!-- RIGHT: STATS -->
+<td width="65%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&count_private=true&include_all_commits=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+<img height="150" src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
 </td>
 
 </tr>
 </table>
 
+<!-- LANGUAGES (separate so it doesn't break layout) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1" />
 </p>
 
 ---
