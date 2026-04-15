@@ -13,9 +13,9 @@
 I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
 I focus on building **scalable systems, clean UI, and performance-driven applications**.
 
-- 🚀 Building real-world apps with **Next.js & MERN**
-- 🧠 Learning **System Design & TypeScript**
-- ⚡ Goal: Work on **AI-powered, production-level products**
+- 🚀 Building real-world apps with Next.js & MERN  
+- 🧠 Learning System Design & TypeScript  
+- ⚡ Goal: Work on AI-powered, production-level products  
 
 ---
 
@@ -26,30 +26,38 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 <td width="50%">
 
 ### 🎨 Frontend & UI  
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
+</p>
 
 </td>
 
 <td width="50%">
 
 ### ⚙️ Backend & Database  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
 ### 🛠 Tools & DevOps  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 </td>
 
-<td>
+<td width="50%">
 
 ### 🚀 Deployment  
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
 
 </td>
 </tr>
@@ -59,24 +67,13 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 
 ## 📊 GitHub Ecosystem
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
@@ -89,7 +86,7 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:zarifhasan207@gmail.com">
