@@ -102,14 +102,14 @@ I don’t just build apps — I bend them to my will
 
 </td>
 
-<!-- RIGHT: STATS -->
+<!-- RIGHT: STATS (SAFE VERSION) -->
 <td width="65%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&v=2"/>
+<img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zarif207&theme=dark&hide_border=true&v=2"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark"/>
 
 </td>
 
@@ -118,9 +118,8 @@ I don’t just build apps — I bend them to my will
 
 <br>
 
-<!-- LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&v=2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
 </p>
 
 ---
