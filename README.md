@@ -66,12 +66,13 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1"/>
-  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&include_all_commits=true&count_private=true&v=1"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&v=1"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1&v=1"/>
 </p>
 
 ---
