@@ -68,12 +68,13 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarif207&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=zarif207&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  
+  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarif207&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
 ---
@@ -81,7 +82,7 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarif207&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
