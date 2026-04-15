@@ -1,87 +1,70 @@
-<h1 align="center">Hi, I'm Zarif 👋</h1>
+<h1 align="center">🟢 Hi, I'm Zarif 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trickster%20Developer-MERN-0f172a?style=for-the-badge&color=0f172a&labelColor=065f46"/>
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-065f46?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always%20Scheming-Projects-14532d?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ Quick Overview
+## 🧠 Who Am I?
 
-I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
-I focus on building **scalable systems, clean UI, and performance-driven applications**.
+> "I am burdened with glorious purpose." — Loki
 
-- 🚀 Building real-world apps with Next.js & MERN  
-- 🧠 Learning System Design & TypeScript  
-- ⚡ Goal: Work on AI-powered, production-level products  
+I’m a **Full-Stack Developer** who builds powerful, scalable systems  
+with a focus on **clean UI, performance, and real-world impact**.
 
----
-
-## 🧩 My Tech Universe
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Frontend & UI  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
-</p>
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend & Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛠 Tools & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-</td>
-
-<td width="50%">
-
-### 🚀 Deployment  
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
-
-</td>
-</tr>
-</table>
+- 🟢 Building with **Next.js & MERN**
+- 🧩 Learning **System Design & TypeScript**
+- ⚡ Goal: Build **production-level, impactful apps**
 
 ---
 
-## 📊 GitHub Ecosystem
+## 🧩 My Tech Arsenal
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zarif207&theme=tokyonight"/>
+### 🟢 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zarif207&theme=tokyonight"/>
+### 🟢 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+</p>
+
+### 🟢 Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧪 Contribution Magic
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&theme=github-dark&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&hide_border=true"/>
+</p>
+
+---
+
+## 🧙‍♂️ Loki Mode Activated
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:14532d&height=120&section=footer"/>
 </p>
 
 ---
@@ -90,19 +73,12 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 
 <p align="center">
   <a href="mailto:zarifhasan207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-14532d?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/zarif-hasan5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-065f46?style=for-the-badge"/>
   </a>
-  <a href="https://zarif-hasan.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-022c22?style=for-the-badge"/>
   </a>
 </p>
-
----
-
-## 🧠 Developer Mindset
-
-> Clean code. Scalable systems. Modern UI.  
-> Always learning. Always building.
