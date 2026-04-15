@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi, Zarif this side 👋</h1>
+<h1 align="center">Hi, Zarif this side</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=022c22&color=14532d"/>
@@ -25,8 +25,6 @@ or as some might say — a developer with glorious purpose
 
 I don’t just build apps — I bend them to my will  
 (calm down… scalable architecture, clean UI, and performance)
-
----
 
 - 💡 Current Mischief: Crafting real-world apps with Next.js & MERN  
 - 🧠 Mind Games: Learning System Design & TypeScript  
@@ -93,7 +91,7 @@ I don’t just build apps — I bend them to my will
 <!-- LEFT: PROFILE -->
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" height="140" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="140" style="border-radius: 999px;" />
 
 <br><br>
 
