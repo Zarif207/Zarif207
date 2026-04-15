@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif" width="100%" style="border-radius: 20px;" />
+</p>
+
+---
+
 <h1 align="center">Hi, I'm Zarif 👋</h1>
 
 <p align="center">
