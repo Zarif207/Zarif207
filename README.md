@@ -7,11 +7,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=022c22&color=14532d"/>
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh-14532d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-166534?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Curious%20Mind-Reverse%20Engineering-14532d?style=for-the-badge"/>
 </p>
 
 <p align="center">
-   <b>Orchestrating Chaos</b> • One System at a Time
+   Calculated Moves • Clean Execution
 </p>
 
 ---
@@ -30,12 +30,14 @@ I don’t just build apps — I bend them to my will
 
 ---
 
-> “I am burdened with glorious purpose.”  
-> — and somehow… also debugging.
+<p align="center">
+  <em>“I am burdened with glorious purpose.”</em><br>
+  <sub>— and somehow… also debugging.</sub>
+</p>
 
 ---
 
-## 🧩 My Tech Universe
+## 🧩 My Tech Multiverse
 
 <table align="center" width="80%">
 <tr>
@@ -43,7 +45,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🎨 Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" />
 </p>
 
 </td>
@@ -62,7 +64,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 </td>
@@ -84,19 +86,6 @@ I don’t just build apps — I bend them to my will
 <table align="center" width="80%">
 <tr>
 
-<!-- LEFT -->
-<!-- <td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/Zarif207/portfolio/main/zarif.png" width="130" height="130" style="border-radius:50%;" />
-
-<br><br>
-
-<b>Zarif Hasan</b><br>
-⚡ Full-Stack Developer <br>
-🟢 MERN Stack <br>
-🧠 System Design Learner
-
-</td> -->
 
 <!-- RIGHT -->
 <td width="65%" align="center">
@@ -126,7 +115,7 @@ I don’t just build apps — I bend them to my will
 
 ---
 
-## 🤝 Let's Connect
+## 🤜🤛 Mischief Managed — Now Let’s Talk
 
 <p align="center">
   <a href="mailto:zarifhasan207@gmail.com">
@@ -135,7 +124,7 @@ I don’t just build apps — I bend them to my will
   <a href="https://www.linkedin.com/in/zarif-hasan5/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-065f46?style=for-the-badge"/>
   </a>
-  <a href="#">
+  <a href="https://zarif-hasan.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-022c22?style=for-the-badge"/>
   </a>
 </p>
