@@ -86,13 +86,15 @@ I don’t just build apps — I bend them to my will
 <table align="center" width="80%">
 <tr>
 
-<td align="center">
+
+<!-- RIGHT -->
+<td width="65%" align="center">
 
 <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark&title_color=22c55e&text_color=cbd5e1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark"/>
 
 </td>
 
@@ -100,7 +102,15 @@ I don’t just build apps — I bend them to my will
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark&title_color=22c55e&text_color=cbd5e1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&area=true&hide_border=true"/>
 </p>
 
 ---
