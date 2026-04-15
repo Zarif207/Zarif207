@@ -1,21 +1,25 @@
 <h1 align="center">Hi, I'm Zarif 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=064e3b&color=065f46"/>
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-065f46?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-14532d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=022c22&color=14532d"/>
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-14532d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-166534?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🟢 <b>Glorious Purpose</b> • Building Scalable Systems
 </p>
 
 ---
 
 ## ⚡ Quick Overview
 
-I am a **Full-Stack Developer** specializing in the MERN ecosystem.  
-I focus on building **scalable systems, clean UI, and performance-driven applications**.
+I am a Full-Stack Developer specializing in the MERN ecosystem.  
+I focus on building scalable systems, clean UI, and performance-driven applications.
 
-- 🚀 Building real-world apps with **Next.js & MERN**
-- 🧠 Learning **System Design & TypeScript**
-- ⚡ Goal: Work on **production-level products**
+- 🚀 Building real-world apps with Next.js & MERN
+- 🧠 Learning System Design & TypeScript
+- ⚡ Goal: Work on production-level products
 
 ---
 
@@ -66,13 +70,13 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&include_all_commits=true&count_private=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarif207&show_icons=true&theme=dark&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=cbd5e1&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   
-  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&v=1"/>
+  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&ring=22c55e&fire=84cc16&currStreakLabel=22c55e"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarif207&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=cbd5e1"/>
 </p>
 
 ---
@@ -80,7 +84,7 @@ I focus on building **scalable systems, clean UI, and performance-driven applica
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&area=true&hide_border=true"/>
 </p>
 
 ---
