@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi, I'm Zarif 👋</h1>
+<h1 align="center">Hi, Zarif this side 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-MERN-111827?style=for-the-badge&labelColor=022c22&color=14532d"/>
@@ -13,19 +13,29 @@
 </p>
 
 <p align="center">
-  🟢 <b>Glorious Purpose</b> • Building Scalable Systems
+   <b>Orchestrating Chaos</b> • One System at a Time
 </p>
 
 ---
 
 ## ⚡ Quick Overview
 
-I am a Full-Stack Developer specializing in the MERN ecosystem.  
-I focus on building scalable systems, clean UI, and performance-driven applications.
+I’m a Full-Stack Developer in the MERN realm…  
+or as some might say — a developer with glorious purpose
 
-- 🚀 Building real-world apps with Next.js & MERN
-- 🧠 Learning System Design & TypeScript
-- ⚡ Goal: Work on production-level products
+I don’t just build apps — I bend them to my will  
+(calm down… scalable architecture, clean UI, and performance)
+
+---
+
+- 💡 Current Mischief: Crafting real-world apps with Next.js & MERN  
+- 🧠 Mind Games: Learning System Design & TypeScript  
+- ⚡ Glorious Purpose: Building production-level systems that actually matter  
+
+---
+
+> “I am burdened with glorious purpose.”  
+> — and somehow… also debugging.
 
 ---
 
