@@ -45,7 +45,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🎨 Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
 </p>
 
 </td>
