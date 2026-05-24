@@ -53,7 +53,7 @@ I don’t just build apps — I bend them to my will
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
 </p>
 
 </td>
@@ -64,7 +64,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </td>
