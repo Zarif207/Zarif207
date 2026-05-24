@@ -53,7 +53,7 @@ I don’t just build apps — I bend them to my will
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,postman" />
 </p>
 
 </td>
@@ -70,9 +70,9 @@ I don’t just build apps — I bend them to my will
 </td>
 <td>
 
-### 🚀 Deployment
+### 🌐 Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
 </td>
