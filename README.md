@@ -106,14 +106,6 @@ I don’t just build apps — I bend them to my will
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark"/>
 </p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarif207&bg_color=020617&color=22c55e&line=22c55e&point=84cc16&area=true&hide_border=true"/>
-</p>
-
 
 ---
 
