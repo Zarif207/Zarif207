@@ -58,7 +58,7 @@ I don’t just build apps — I bend them to my will
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma,mongodb,postgres,firebase" />
 </p>
 
 </td>
