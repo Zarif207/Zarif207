@@ -11,7 +11,7 @@
 <p align="center">
   <b>Full-Stack Developer</b>
   <br/>
-  <i>Burdened with glorious code.</i>
+  <i>"Burdened with glorious code"</i>
 </p>
 
 <p align="center">
