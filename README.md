@@ -9,7 +9,9 @@
 <h2 align="center">Zarif Hasan</h2>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · MERN &amp; Next.js · <i>Calculated Moves. Clean Execution.</i>
+  <b>Full-Stack Developer</b> · ML
+  <br/>
+  <i>Burdened with glorious code.</i>
 </p>
 
 <p align="center">
@@ -22,7 +24,7 @@
 
 <h2>🧩 Tech Multiverse</h2>
 
-<table width="100%">
+<table align="center", width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 Frontend &amp; UI</h3>
