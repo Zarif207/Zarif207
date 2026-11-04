@@ -9,7 +9,7 @@
 <h2 align="center">Zarif Hasan</h2>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · ML
+  <b>Full-Stack Developer</b>
   <br/>
   <i>Burdened with glorious code.</i>
 </p>
