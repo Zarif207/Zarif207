@@ -50,7 +50,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🎨 Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&perline=7" alt="Frontend skills" />
 </p>
 
 </td>
@@ -58,8 +58,7 @@ I don’t just build apps — I bend them to my will
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,
-    docker,prisma,mongodb,redis,postgres,nestjs,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,expressjs,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" />
 </p>
 
 </td>
@@ -70,7 +69,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
 </p>
 
 </td>
@@ -78,7 +77,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🌐 Deployment
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,render" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=4" alt="Deployment" />
 </p>
 
 </td>
