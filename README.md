@@ -32,7 +32,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend &amp; Database</h3>
-      <img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" />
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,firebase&perline=5" alt="Backend skills" />
     </td>
   </tr>
   <tr>
