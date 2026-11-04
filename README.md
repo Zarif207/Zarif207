@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif" width="100%" alt="Loki banner" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Zarif Hasan: developer info card and animated ASCII portrait" />
