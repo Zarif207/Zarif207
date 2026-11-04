@@ -1,116 +1,109 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/45/5f/38/455f38889a9b04fcb4f5c535a9b212a6.gif" width="90%" alt="Loki banner" />
-</p>
-<h1 align="center">Zarif Hasan</h1>
+
+Hero · SVG
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-label="Zarif Hasan: developer info card and animated ASCII portrait">
+  <title>Zarif Hasan · zarif@github</title>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+    .ln  { opacity: 0; animation: type .35s ease-out forwards; }
+    .art { opacity: 0; animation: draw .5s ease-out forwards; }
+    .d { fill: #2f6b47; } .m { fill: #5fb583; } .h { fill: #a7f3c4; } .b { fill: #ffffff; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes type  { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @keyframes draw  { 0% { opacity: 0; transform: translateY(-3px); } 100% { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ln, .art { animation: none; opacity: 1; } .cur { animation: none; } }
+  </style>
  
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=900&height=40&lines=Burdened+with+glorious+purpose;Full-Stack+Developer+%7C+MERN+%26+Next.js;Calculated+Moves.+Clean+Execution." alt="Typing animation" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-022c22?style=for-the-badge&logo=stackblitz&logoColor=22c55e" alt="Role" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-14532d?style=for-the-badge&logo=react&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-065f46?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-<p align="center">
-  <a href="https://zarif-hasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Enter%20My%20Realm-022c22?style=flat-square&logo=netlify&logoColor=22c55e" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/zarif-hasan5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-065f46?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zarifhasan207@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-14532d?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<hr />
-<h2>👑 The Variant Profile</h2>
+  <g transform="translate(0,0)">
+    <rect x="0.5" y="0.5" width="489" height="539" rx="10" fill="#010409" stroke="#30363d"/>
+    <path d="M0.5 10.5 a10 10 0 0 1 10 -10 h469 a10 10 0 0 1 10 10 v28 h-489 z" fill="#161b22"/>
+    <line x1="0.5" y1="38.5" x2="489.5" y2="38.5" stroke="#30363d"/>
+    <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+    <text x="474" y="24" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">zarif@github: ~$ ./render --portrait</text>
+  </g>
  
-<p>I build production-minded web applications end to end: API design, data modeling, and interfaces that stay fast and clean as they grow. I care about maintainable code, sensible architecture, and shipping things that work in the real world.</p>
-<blockquote><em>"I am burdened with glorious purpose."</em> — and somehow, also debugging.</blockquote>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔭 Currently</h3>
-      <ul>
-        <li>Building real-world apps with <b>Next.js</b> and the <b>MERN</b> stack</li>
-        <li>Deepening <b>TypeScript</b> and <b>System Design</b></li>
-        <li>Exploring <b>AI/ML</b> foundations with Python</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Principles</h3>
-      <ul>
-        <li>Clear architecture before clever code</li>
-        <li>Type safety and validation at the boundaries</li>
-        <li>Performance and UX are features, not extras</li>
-        <li>Ship, measure, refine</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<hr />
-<h2>🧩 Tech Multiverse</h2>
- 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Frontend &amp; UI</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&perline=7" alt="Frontend skills" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend &amp; Database</h3>
-      <img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠 Tools &amp; DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Deployment</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,render" alt="Deployment" />
-    </td>
-  </tr>
-</table>
-<hr />
-<h2>🚀 Featured Work</h2>
- 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 RentNest</h3>
-      <p>Rental platform backend with a clean, modular API structure.</p>
-      <p><code>Node.js</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/Zarif207/RentNest"><img src="https://img.shields.io/badge/View%20Repo-022c22?style=flat-square&logo=github&logoColor=22c55e" alt="RentNest repo" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 MediTrack</h3>
-      <p>Hospital management app, deployed on Vercel.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>MongoDB</code></p>
-      <a href="https://github.com/Zarif207/meditrack-api"><img src="https://img.shields.io/badge/View%20Repo-022c22?style=flat-square&logo=github&logoColor=22c55e" alt="MediTrack repo" /></a>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <sub>More on my <a href="https://github.com/Zarif207?tab=repositories">repositories</a> and <a href="https://zarif-hasan.netlify.app/">portfolio</a>.</sub>
-</p>
-<hr />
-<h2>📊 GitHub Ecosystem</h2>
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zarif207&theme=dark&hide_border=true&background=0D1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&currStreakNum=ecfdf5&sideNums=ecfdf5&sideLabels=86efac&dates=6b7280" alt="GitHub streak" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zarif207&theme=github_dark" alt="GitHub stats" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zarif207&theme=github_dark" alt="Most used languages" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zarif207&theme=github_dark" alt="Repos per language" height="170" />
-</p>
-<hr />
-<h2>🤜🤛 Mischief Managed — Let's Talk</h2>
- 
-<p>Open to collaboration, freelance work, and full-stack opportunities.</p>
-<p align="center">
-  <a href="mailto:zarifhasan207@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-14532d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/zarif-hasan5/"><img src="https://img.shields.io/badge/LinkedIn-Profile-065f46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://zarif-hasan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Enter%20My%20Realm-022c22?style=for-the-badge&logo=netlify&logoColor=22c55e" alt="Portfolio" /></a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:14532d,100:22c55e&height=110&section=footer" alt="Footer" width="100%" />
-</p>
+  <g transform="translate(510,0)">
+    <rect x="0.5" y="0.5" width="489" height="539" rx="10" fill="#010409" stroke="#30363d"/>
+    <path d="M0.5 10.5 a10 10 0 0 1 10 -10 h469 a10 10 0 0 1 10 10 v28 h-489 z" fill="#161b22"/>
+    <line x1="0.5" y1="38.5" x2="489.5" y2="38.5" stroke="#30363d"/>
+    <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+    <text x="474" y="24" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">zarif@github: ~$ neofetch</text>
+  </g>
+  <g>
+        <text class="ln" style="animation-delay:0.35s" x="536" y="72" font-size="16" font-weight="700" fill="#22c55e">zarif@github</text>
+    <text class="ln" style="animation-delay:0.47s" x="536" y="88" font-size="13" fill="#30363d">────────────────────────────────────</text>
+    <text class="ln" style="animation-delay:0.59s" x="536" y="110" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Role</tspan><tspan x="642" fill="#c9d1d9">Full-Stack Developer (MERN)</tspan></text>
+    <text class="ln" style="animation-delay:0.71s" x="536" y="132" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Focus</tspan><tspan x="642" fill="#c9d1d9">Next.js · TypeScript · APIs</tspan></text>
+    <text class="ln" style="animation-delay:0.83s" x="536" y="154" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Learning</tspan><tspan x="642" fill="#c9d1d9">System Design · AI/ML</tspan></text>
+    <text class="ln" style="animation-delay:0.95s" x="536" y="176" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Based</tspan><tspan x="642" fill="#c9d1d9">Dhaka, Bangladesh</tspan></text>
+    <text class="ln" style="animation-delay:1.07s" x="536" y="206" font-size="13.5" font-weight="700" fill="#86efac">— Stack</text>
+    <text class="ln" style="animation-delay:1.19s" x="536" y="228" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Frontend</tspan><tspan x="642" fill="#c9d1d9">React, Next.js, TS, Tailwind</tspan></text>
+    <text class="ln" style="animation-delay:1.31s" x="536" y="250" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Backend</tspan><tspan x="642" fill="#c9d1d9">Node, Express, NestJS, Python</tspan></text>
+    <text class="ln" style="animation-delay:1.43s" x="536" y="272" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Data</tspan><tspan x="642" fill="#c9d1d9">PostgreSQL, MongoDB, Redis</tspan></text>
+    <text class="ln" style="animation-delay:1.55s" x="536" y="294" font-size="13.5"><tspan fill="#e3b341" font-weight="700">Deploy</tspan><tspan x="642" fill="#c9d1d9">Vercel, Netlify, Render, Docker</tspan></text>
+    <text class="ln" style="animation-delay:1.67s" x="536" y="324" font-size="13.5" font-weight="700" fill="#86efac">— Highlights</text>
+    <text class="ln" style="animation-delay:1.79s" x="536" y="346" font-size="13.5"><tspan fill="#22c55e">•</tspan><tspan dx="8" fill="#c9d1d9">1,000+ contributions · 37 repositories</tspan></text>
+    <text class="ln" style="animation-delay:1.91s" x="536" y="368" font-size="13.5"><tspan fill="#22c55e">•</tspan><tspan dx="8" fill="#c9d1d9">Shipped RentNest &amp; MediTrack</tspan></text>
+    <text class="ln" style="animation-delay:2.03s" x="536" y="398" font-size="13.5" font-weight="700" fill="#86efac">— Motto</text>
+    <text class="ln" style="animation-delay:2.15s" x="536" y="420" font-size="13.5" font-style="italic" fill="#8b949e">“Burdened with glorious purpose.”</text>
+    <g class="ln" style="animation-delay:2.27s"><rect x="536" y="434" width="24" height="16" rx="3" fill="#022c22"/><rect x="566" y="434" width="24" height="16" rx="3" fill="#14532d"/><rect x="596" y="434" width="24" height="16" rx="3" fill="#166534"/><rect x="626" y="434" width="24" height="16" rx="3" fill="#22c55e"/><rect x="656" y="434" width="24" height="16" rx="3" fill="#86efac"/><rect x="686" y="434" width="24" height="16" rx="3" fill="#e3b341"/><rect x="716" y="434" width="24" height="16" rx="3" fill="#ecfdf5"/></g>
+    <text class="ln" style="animation-delay:2.39s" x="536" y="476" font-size="13.5" fill="#22c55e">zarif@github:~$ <tspan class="cur" fill="#22c55e">█</tspan></text>
+  </g>
+  <g>
+        <text class="art" style="animation-delay:0.40s" x="266.43" y="66.91" font-size="8.64" textLength="16.07" lengthAdjust="spacingAndGlyphs"><tspan class="h">#*#</tspan></text>
+    <text class="art" style="animation-delay:0.46s" x="186.07" y="75.55" font-size="8.64" textLength="117.86" lengthAdjust="spacingAndGlyphs"><tspan class="h">***</tspan><tspan class="m">++</tspan><tspan class="d">;:;,,</tspan><tspan class="m">=+</tspan><tspan class="d">,.,,,:</tspan><tspan class="m">-</tspan><tspan class="d">;:</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:0.53s" x="170.00" y="84.19" font-size="8.64" textLength="150.00" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="d">..,:</tspan><tspan class="m">=+++++</tspan><tspan class="d">;;</tspan><tspan class="m">=+=</tspan><tspan class="d">;</tspan><tspan class="m">=</tspan><tspan class="d">;:</tspan><tspan class="m">-</tspan><tspan class="d">;:;</tspan><tspan class="m">-+</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:0.59s" x="159.29" y="92.83" font-size="8.64" textLength="171.43" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">,,;</tspan><tspan class="m">++=-</tspan><tspan class="d">;:;;</tspan><tspan class="m">=++</tspan><tspan class="d">:,;</tspan><tspan class="m">++++-</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan><tspan class="d">:</tspan><tspan class="m">++-</tspan><tspan class="d">:</tspan><tspan class="m">=</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:0.66s" x="153.93" y="101.47" font-size="8.64" textLength="187.50" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">;;</tspan><tspan class="m">=--++=</tspan><tspan class="d">:;</tspan><tspan class="m">++++</tspan><tspan class="d">;</tspan><tspan class="m">-++++=</tspan><tspan class="d">:</tspan><tspan class="m">+</tspan><tspan class="d">:</tspan><tspan class="m">-</tspan><tspan class="d">;,</tspan><tspan class="m">++-</tspan><tspan class="d">;,,</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:0.72s" x="148.57" y="110.11" font-size="8.64" textLength="198.21" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">;</tspan><tspan class="m">-</tspan><tspan class="d">:;;;;</tspan><tspan class="m">+--</tspan><tspan class="d">;:</tspan><tspan class="m">+++-</tspan><tspan class="d">,:</tspan><tspan class="m">-</tspan><tspan class="d">:;;:,:,:,,:,::,,</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:0.78s" x="143.21" y="118.75" font-size="8.64" textLength="208.93" lengthAdjust="spacingAndGlyphs"><tspan class="m">+</tspan><tspan class="d">,</tspan><tspan class="m">=-</tspan><tspan class="d">:,</tspan><tspan class="m">-+</tspan><tspan class="d">;::::,,,</tspan><tspan class="m">-</tspan><tspan class="d">;,,,,,,,,,,,,,:,,,,;,</tspan><tspan class="m">-</tspan></text>
+    <text class="art" style="animation-delay:0.85s" x="137.86" y="127.39" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">,</tspan><tspan class="m">==</tspan><tspan class="d">;:,;</tspan><tspan class="m">+</tspan><tspan class="d">:,,,,,,,,,,,.,;:,,,,,,,,,,::</tspan><tspan class="m">-=</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:0.91s" x="132.50" y="136.03" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">+</tspan><tspan class="d">.</tspan><tspan class="m">--</tspan><tspan class="d">;::,,,,</tspan><tspan class="m">++++</tspan><tspan class="h">***</tspan><tspan class="m">+==+++</tspan><tspan class="h">****</tspan><tspan class="m">+</tspan><tspan class="d">:,,,:::;;;:,</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:0.98s" x="132.50" y="144.67" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">;:;;;:,.</tspan><tspan class="m">+</tspan><tspan class="h">*#</tspan><tspan class="b">%%%@%%%</tspan><tspan class="h">###</tspan><tspan class="b">%%%</tspan><tspan class="h">#</tspan><tspan class="b">%%%%</tspan><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="d">,,:::,::,</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:1.04s" x="132.50" y="153.31" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">;</tspan><tspan class="m">-</tspan><tspan class="d">;::,.</tspan><tspan class="m">+</tspan><tspan class="h">*####</tspan><tspan class="b">%%%%%%%%%%%%%</tspan><tspan class="h">#####**</tspan><tspan class="m">+</tspan><tspan class="d">,,::::,</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:1.10s" x="132.50" y="161.95" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">::,:,,</tspan><tspan class="h">*####</tspan><tspan class="b">%%%%%%%%%%%%%%%%</tspan><tspan class="h">######</tspan><tspan class="b">%</tspan><tspan class="m">+</tspan><tspan class="d">.,::;,;</tspan></text>
+    <text class="art" style="animation-delay:1.17s" x="132.50" y="170.59" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">,:;;,:</tspan><tspan class="h">*####</tspan><tspan class="b">%%%%%%%%%%%%%%%%%</tspan><tspan class="h">####***</tspan><tspan class="m">+</tspan><tspan class="d">,,,</tspan><tspan class="m">-</tspan><tspan class="d">,;</tspan></text>
+    <text class="art" style="animation-delay:1.23s" x="132.50" y="179.23" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">:,;</tspan><tspan class="m">-</tspan><tspan class="d">:;</tspan><tspan class="h">*</tspan><tspan class="b">%%%</tspan><tspan class="h">#</tspan><tspan class="b">%%%@@@@@%@@@@@@@%%%%</tspan><tspan class="h">##**#</tspan><tspan class="m">+</tspan><tspan class="d">.::.</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:1.30s" x="132.50" y="187.87" font-size="8.64" textLength="225.00" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">.;,</tspan><tspan class="m">=</tspan><tspan class="h">#</tspan><tspan class="b">%</tspan><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="d">;,,,</tspan><tspan class="m">=+</tspan><tspan class="h">***</tspan><tspan class="b">%@%@@@%</tspan><tspan class="h">###*</tspan><tspan class="m">++=</tspan><tspan class="d">;</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">%</tspan><tspan class="h">*</tspan><tspan class="d">.,:.</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:1.36s" x="137.86" y="196.51" font-size="8.64" textLength="214.29" lengthAdjust="spacingAndGlyphs"><tspan class="d">.,.</tspan><tspan class="h">*</tspan><tspan class="b">@%</tspan><tspan class="m">=</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan><tspan class="h">**</tspan><tspan class="m">++</tspan><tspan class="d">;:</tspan><tspan class="m">=+</tspan><tspan class="h">*</tspan><tspan class="b">%@%%%</tspan><tspan class="m">+</tspan><tspan class="d">:,,,,</tspan><tspan class="m">-</tspan><tspan class="d">;:,,</tspan><tspan class="h">*</tspan><tspan class="b">%</tspan><tspan class="m">+</tspan><tspan class="d">.,,</tspan></text>
+    <text class="art" style="animation-delay:1.42s" x="137.86" y="205.15" font-size="8.64" textLength="214.29" lengthAdjust="spacingAndGlyphs"><tspan class="d">;.</tspan><tspan class="m">+</tspan><tspan class="h">*##*#*</tspan><tspan class="m">++</tspan><tspan class="h">**</tspan><tspan class="m">++++</tspan><tspan class="h">*###**</tspan><tspan class="m">++++</tspan><tspan class="h">*</tspan><tspan class="m">+++</tspan><tspan class="h">**</tspan><tspan class="m">++</tspan><tspan class="h">*</tspan><tspan class="m">+=</tspan><tspan class="d">.</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:1.49s" x="137.86" y="213.79" font-size="8.64" textLength="208.93" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">.</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">*#**</tspan><tspan class="m">+++</tspan><tspan class="d">::</tspan><tspan class="m">+</tspan><tspan class="h">**</tspan><tspan class="m">++</tspan><tspan class="h">*</tspan><tspan class="b">%%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">*</tspan><tspan class="m">+++</tspan><tspan class="d">:,</tspan><tspan class="m">++</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan><tspan class="h">***</tspan><tspan class="d">:</tspan><tspan class="m">+</tspan><tspan class="d">,</tspan></text>
+    <text class="art" style="animation-delay:1.55s" x="127.14" y="222.43" font-size="8.64" textLength="230.36" lengthAdjust="spacingAndGlyphs"><tspan class="h">##</tspan><tspan class="d"> </tspan><tspan class="h">*</tspan><tspan class="d">.</tspan><tspan class="h">*</tspan><tspan class="b">@</tspan><tspan class="h">**##******#*</tspan><tspan class="d">,</tspan><tspan class="h">#</tspan><tspan class="b">@@</tspan><tspan class="h">#</tspan><tspan class="d">;</tspan><tspan class="m">++</tspan><tspan class="h">**</tspan><tspan class="m">++++++</tspan><tspan class="h">**</tspan><tspan class="b">%</tspan><tspan class="m">+</tspan><tspan class="d">.</tspan><tspan class="m">+</tspan><tspan class="d"> </tspan><tspan class="h">#</tspan></text>
+    <text class="art" style="animation-delay:1.62s" x="127.14" y="231.07" font-size="8.64" textLength="230.36" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">   </tspan><tspan class="m">-+</tspan><tspan class="b">@</tspan><tspan class="h">##</tspan><tspan class="b">%%%%%</tspan><tspan class="h">#</tspan><tspan class="b">%</tspan><tspan class="h">#</tspan><tspan class="b">%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="b">%@@%</tspan><tspan class="m">++</tspan><tspan class="h">##########*</tspan><tspan class="b">%</tspan><tspan class="m">++</tspan><tspan class="d"> </tspan><tspan class="h">**</tspan></text>
+    <text class="art" style="animation-delay:1.68s" x="148.57" y="239.71" font-size="8.64" textLength="203.57" lengthAdjust="spacingAndGlyphs"><tspan class="d">:</tspan><tspan class="m">+</tspan><tspan class="b">@%</tspan><tspan class="h">#</tspan><tspan class="b">%%%%%@%@%</tspan><tspan class="h">**</tspan><tspan class="b">%@@%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">*</tspan><tspan class="b">%%%%%%%</tspan><tspan class="h">###</tspan><tspan class="b">@</tspan><tspan class="m">++</tspan><tspan class="d"> </tspan><tspan class="h">#</tspan></text>
+    <text class="art" style="animation-delay:1.74s" x="143.21" y="248.35" font-size="8.64" textLength="198.21" lengthAdjust="spacingAndGlyphs"><tspan class="h">#*</tspan><tspan class="m">-</tspan><tspan class="b">%@%%%@@@@@%</tspan><tspan class="h">##</tspan><tspan class="b">%@@@@</tspan><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">%%%%</tspan><tspan class="h">####</tspan><tspan class="b">%%</tspan><tspan class="d">,</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:1.81s" x="143.21" y="256.99" font-size="8.64" textLength="203.57" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d"> </tspan><tspan class="m">+</tspan><tspan class="h">*</tspan><tspan class="b">@%%%@@@%@%</tspan><tspan class="h">##*</tspan><tspan class="b">%@@%</tspan><tspan class="h">*</tspan><tspan class="b">%</tspan><tspan class="h">#*</tspan><tspan class="b">%</tspan><tspan class="h">#######</tspan><tspan class="b">%</tspan><tspan class="h">*</tspan><tspan class="m">-</tspan><tspan class="h">*#</tspan></text>
+    <text class="art" style="animation-delay:1.87s" x="153.93" y="265.63" font-size="8.64" textLength="192.86" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="m">=</tspan><tspan class="h">#</tspan><tspan class="b">%%%%%@@%@</tspan><tspan class="h">#</tspan><tspan class="m">++</tspan><tspan class="h">***</tspan><tspan class="m">+</tspan><tspan class="d">;</tspan><tspan class="m">+</tspan><tspan class="h">*#</tspan><tspan class="b">%</tspan><tspan class="h">########</tspan><tspan class="m">+</tspan><tspan class="h">*#*</tspan></text>
+    <text class="art" style="animation-delay:1.94s" x="159.29" y="274.27" font-size="8.64" textLength="171.43" lengthAdjust="spacingAndGlyphs"><tspan class="d">:</tspan><tspan class="h">*</tspan><tspan class="b">%</tspan><tspan class="h">#</tspan><tspan class="b">%%%%</tspan><tspan class="h">###**</tspan><tspan class="m">++</tspan><tspan class="h">*#</tspan><tspan class="m">+++</tspan><tspan class="h">*#*#</tspan><tspan class="b">%</tspan><tspan class="h">###*#*</tspan><tspan class="d">:</tspan></text>
+    <text class="art" style="animation-delay:2.00s" x="159.29" y="282.91" font-size="8.64" textLength="171.43" lengthAdjust="spacingAndGlyphs"><tspan class="h">**###</tspan><tspan class="b">%</tspan><tspan class="h">#</tspan><tspan class="d">:;</tspan><tspan class="m">+</tspan><tspan class="h">*****##*****</tspan><tspan class="m">+</tspan><tspan class="d">;</tspan><tspan class="m">+</tspan><tspan class="h">##***</tspan><tspan class="m">=+</tspan></text>
+    <text class="art" style="animation-delay:2.06s" x="164.64" y="291.55" font-size="8.64" textLength="160.71" lengthAdjust="spacingAndGlyphs"><tspan class="m">+</tspan><tspan class="h">*####**</tspan><tspan class="m">++</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">***</tspan><tspan class="m">++++-++=+</tspan><tspan class="h">#***</tspan><tspan class="m">++</tspan></text>
+    <text class="art" style="animation-delay:2.13s" x="164.64" y="300.19" font-size="8.64" textLength="155.36" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="h">**#</tspan><tspan class="b">%%%@%%%%</tspan><tspan class="h">##</tspan><tspan class="b">%%</tspan><tspan class="h">#*##*#</tspan><tspan class="b">%</tspan><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="h">*</tspan><tspan class="m">++</tspan></text>
+    <text class="art" style="animation-delay:2.19s" x="170.00" y="308.83" font-size="8.64" textLength="144.64" lengthAdjust="spacingAndGlyphs"><tspan class="m">++</tspan><tspan class="h">**#</tspan><tspan class="b">%%%%%%</tspan><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="h">*##</tspan><tspan class="b">%%%%%</tspan><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:2.26s" x="137.86" y="317.47" font-size="8.64" textLength="208.93" lengthAdjust="spacingAndGlyphs"><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="d">;,.</tspan><tspan class="m">+</tspan><tspan class="h">****#</tspan><tspan class="b">%%%%%%%</tspan><tspan class="h">#</tspan><tspan class="b">%%%%%%%</tspan><tspan class="h">#**</tspan><tspan class="m">++</tspan><tspan class="d">;</tspan><tspan class="m">++</tspan><tspan class="h">***#</tspan></text>
+    <text class="art" style="animation-delay:2.32s" x="116.43" y="326.11" font-size="8.64" textLength="262.50" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="d">,..,,,,.</tspan><tspan class="m">+</tspan><tspan class="b">%</tspan><tspan class="m">++</tspan><tspan class="d">;</tspan><tspan class="m">+</tspan><tspan class="b">%%%%%%</tspan><tspan class="h">##</tspan><tspan class="b">%%%%</tspan><tspan class="h">##**</tspan><tspan class="m">+</tspan><tspan class="d">;;</tspan><tspan class="h">*</tspan><tspan class="d">;.......,:</tspan><tspan class="m">+</tspan><tspan class="h">*#</tspan></text>
+    <text class="art" style="animation-delay:2.38s" x="100.36" y="334.75" font-size="8.64" textLength="289.29" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">;,.,,,:,,,:.</tspan><tspan class="m">=</tspan><tspan class="b">@%</tspan><tspan class="h">*</tspan><tspan class="m">-</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">%%</tspan><tspan class="h">##**###</tspan><tspan class="b">%%</tspan><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="d">,:</tspan><tspan class="m">=+</tspan><tspan class="h">#</tspan><tspan class="m">=</tspan><tspan class="d">.,;;:,,,,,.,:</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:2.45s" x="95.00" y="343.39" font-size="8.64" textLength="300.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">+</tspan><tspan class="d">.,,,,,,,,;;,</tspan><tspan class="m">=</tspan><tspan class="h">*#</tspan><tspan class="b">%%%</tspan><tspan class="m">+</tspan><tspan class="d">;</tspan><tspan class="m">=+++++++</tspan><tspan class="h">*</tspan><tspan class="m">+++</tspan><tspan class="d">,:</tspan><tspan class="m">-+</tspan><tspan class="h">***##</tspan><tspan class="m">+</tspan><tspan class="d">.:</tspan><tspan class="m">=</tspan><tspan class="d">;,,,,,,,.</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:2.51s" x="89.64" y="352.03" font-size="8.64" textLength="310.71" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">,</tspan><tspan class="m">=</tspan><tspan class="d">:,,,,,:</tspan><tspan class="m">-=</tspan><tspan class="d">,:</tspan><tspan class="b">@</tspan><tspan class="h">*#</tspan><tspan class="b">%</tspan><tspan class="h">####*</tspan><tspan class="m">+++++</tspan><tspan class="d">;::,,:</tspan><tspan class="m">++</tspan><tspan class="h">*****</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">@</tspan><tspan class="m">-</tspan><tspan class="d">.</tspan><tspan class="m">-+=</tspan><tspan class="d">,,,,,:</tspan><tspan class="m">-</tspan><tspan class="d">,</tspan><tspan class="h">#</tspan></text>
+    <text class="art" style="animation-delay:2.58s" x="89.64" y="360.67" font-size="8.64" textLength="310.71" lengthAdjust="spacingAndGlyphs"><tspan class="h">#</tspan><tspan class="d">,</tspan><tspan class="m">=-</tspan><tspan class="d">,,,,:</tspan><tspan class="m">-=-</tspan><tspan class="d">.</tspan><tspan class="h">*</tspan><tspan class="b">@</tspan><tspan class="m">=</tspan><tspan class="h">#</tspan><tspan class="b">%%%%</tspan><tspan class="h">########***</tspan><tspan class="m">++</tspan><tspan class="h">**###*</tspan><tspan class="m">++</tspan><tspan class="h">*</tspan><tspan class="b">@</tspan><tspan class="h">#</tspan><tspan class="d">.:</tspan><tspan class="m">==-</tspan><tspan class="d">,,,,:</tspan><tspan class="m">-</tspan><tspan class="d">,</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:2.64s" x="95.00" y="369.31" font-size="8.64" textLength="305.36" lengthAdjust="spacingAndGlyphs"><tspan class="d">:;</tspan><tspan class="m">-</tspan><tspan class="d">;,,,:;</tspan><tspan class="m">=</tspan><tspan class="d">::</tspan><tspan class="b">@@</tspan><tspan class="h">#</tspan><tspan class="m">+</tspan><tspan class="b">%%%%%</tspan><tspan class="h">####</tspan><tspan class="b">%%@%</tspan><tspan class="h">#****####*</tspan><tspan class="m">+</tspan><tspan class="d">.</tspan><tspan class="h">*</tspan><tspan class="b">@@</tspan><tspan class="m">=</tspan><tspan class="d">:;;:::,,:</tspan><tspan class="m">-</tspan><tspan class="d">,</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:2.70s" x="95.00" y="377.95" font-size="8.64" textLength="305.36" lengthAdjust="spacingAndGlyphs"><tspan class="d">:;;;</tspan><tspan class="m">-</tspan><tspan class="d">:,,,;:</tspan><tspan class="m">+</tspan><tspan class="b">@@@</tspan><tspan class="h">#*#</tspan><tspan class="b">%%%</tspan><tspan class="h">####</tspan><tspan class="b">%@@%</tspan><tspan class="h">****#</tspan><tspan class="b">%</tspan><tspan class="h">##**</tspan><tspan class="m">++</tspan><tspan class="b">@@%</tspan><tspan class="d">;:;:::,,,;</tspan><tspan class="m">-</tspan><tspan class="d">:</tspan><tspan class="h">#</tspan></text>
+    <text class="art" style="animation-delay:2.77s" x="89.64" y="386.59" font-size="8.64" textLength="310.71" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">:</tspan><tspan class="m">=-</tspan><tspan class="d">;;</tspan><tspan class="m">-</tspan><tspan class="d">;;;::,</tspan><tspan class="h">*</tspan><tspan class="b">@@@@</tspan><tspan class="h">##</tspan><tspan class="b">%%</tspan><tspan class="h">##*##</tspan><tspan class="b">%%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">**#</tspan><tspan class="b">%%</tspan><tspan class="h">##*</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">@@%</tspan><tspan class="m">-</tspan><tspan class="d">,</tspan><tspan class="m">-</tspan><tspan class="d">::,,,:</tspan><tspan class="m">--=</tspan><tspan class="d">:</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:2.83s" x="84.29" y="395.23" font-size="8.64" textLength="321.43" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">;</tspan><tspan class="m">-=--</tspan><tspan class="d">;;;</tspan><tspan class="m">-=-</tspan><tspan class="d">;,,</tspan><tspan class="h">#</tspan><tspan class="b">@@@@@</tspan><tspan class="h">#************###**#</tspan><tspan class="b">@@@%</tspan><tspan class="m">=</tspan><tspan class="d">,;:,,,,:</tspan><tspan class="m">---</tspan><tspan class="d">;::</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:2.90s" x="78.93" y="403.87" font-size="8.64" textLength="332.14" lengthAdjust="spacingAndGlyphs"><tspan class="d">;;</tspan><tspan class="m">+=-</tspan><tspan class="d">;</tspan><tspan class="m">----</tspan><tspan class="d">;;</tspan><tspan class="m">---</tspan><tspan class="d">:.</tspan><tspan class="h">#</tspan><tspan class="b">@@@@@@</tspan><tspan class="h">#*</tspan><tspan class="m">+</tspan><tspan class="h">*##*##****#</tspan><tspan class="b">%@@@@</tspan><tspan class="h">*</tspan><tspan class="d">,,:,,,,;;;;;;;;</tspan><tspan class="m">-</tspan><tspan class="d">;</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:2.96s" x="73.57" y="412.51" font-size="8.64" textLength="342.86" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="d">,;</tspan><tspan class="m">-------</tspan><tspan class="d">;;;;;;</tspan><tspan class="m">-</tspan><tspan class="d">;:</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">@@@@@@%</tspan><tspan class="h">#*#</tspan><tspan class="b">%%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="h">*#</tspan><tspan class="b">@@@%@%</tspan><tspan class="m">+</tspan><tspan class="d">,,:,::</tspan><tspan class="m">-=-</tspan><tspan class="d">:::::;</tspan><tspan class="m">--=</tspan><tspan class="d">.</tspan><tspan class="m">+</tspan></text>
+    <text class="art" style="animation-delay:3.02s" x="57.50" y="421.15" font-size="8.64" textLength="375.00" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="m">+++=</tspan><tspan class="d">::::;</tspan><tspan class="m">-</tspan><tspan class="d">;;</tspan><tspan class="m">---</tspan><tspan class="d">;;;;;</tspan><tspan class="m">-</tspan><tspan class="d">:,:</tspan><tspan class="m">+</tspan><tspan class="h">#</tspan><tspan class="b">%@@@@%</tspan><tspan class="h">#*###</tspan><tspan class="b">@@%%%@</tspan><tspan class="h">*</tspan><tspan class="d">,,</tspan><tspan class="m">-</tspan><tspan class="d">;;</tspan><tspan class="m">--=</tspan><tspan class="d">;:::::::;::,:;</tspan><tspan class="m">++</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:3.09s" x="36.07" y="429.79" font-size="8.64" textLength="417.86" lengthAdjust="spacingAndGlyphs"><tspan class="h">*</tspan><tspan class="m">+=---==+=-</tspan><tspan class="d">;;::,::</tspan><tspan class="m">-</tspan><tspan class="d">;;;;;::;</tspan><tspan class="m">-</tspan><tspan class="d">;,,</tspan><tspan class="m">=+</tspan><tspan class="h">*#</tspan><tspan class="b">@@@</tspan><tspan class="h">#</tspan><tspan class="b">%@@@@@%</tspan><tspan class="h">#</tspan><tspan class="m">=</tspan><tspan class="d">,:</tspan><tspan class="m">=</tspan><tspan class="d">;;;;;;;::::::::::</tspan><tspan class="m">-==</tspan><tspan class="d">;;;</tspan><tspan class="m">-=+</tspan><tspan class="h">*</tspan></text>
+    <text class="art" style="animation-delay:3.15s" x="20.00" y="438.43" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">+=</tspan><tspan class="d">;</tspan><tspan class="m">--===+=======--</tspan><tspan class="d">;:::,,,:::;:;::</tspan><tspan class="m">-+=</tspan><tspan class="d">,.</tspan><tspan class="m">-</tspan><tspan class="h">*</tspan><tspan class="b">@@@@@@%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="d">,:</tspan><tspan class="m">-</tspan><tspan class="d">;;:;::::,,,,,,:::</tspan><tspan class="m">-==--=====-</tspan><tspan class="d">;;</tspan><tspan class="m">=+</tspan></text>
+    <text class="art" style="animation-delay:3.22s" x="20.00" y="447.07" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">-===+=============++</tspan><tspan class="d">;;::,,:::,::::,</tspan><tspan class="m">=</tspan><tspan class="d">,,,.,</tspan><tspan class="m">+</tspan><tspan class="b">%</tspan><tspan class="h">*</tspan><tspan class="m">+</tspan><tspan class="d">:,,</tspan><tspan class="m">==</tspan><tspan class="d">:::,,,,,,,,,,:::;</tspan><tspan class="m">-=--------====+==</tspan></text>
+    <text class="art" style="animation-delay:3.28s" x="20.00" y="455.71" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">==---===========+=+-</tspan><tspan class="d">;;;;::;::;::;::</tspan><tspan class="m">=</tspan><tspan class="d">,,:;,,:,,::,;,,,:::;::::::;;;;</tspan><tspan class="m">-------------====+</tspan></text>
+    <text class="art" style="animation-delay:3.34s" x="20.00" y="464.35" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">=-==--==-======+++-</tspan><tspan class="d">;;;;;;;;;;:;;;;:;::;;;:::::,,</tspan><tspan class="m">-</tspan><tspan class="d">,::;;;;;;;;;</tspan><tspan class="m">-</tspan><tspan class="d">;;;;</tspan><tspan class="m">--</tspan><tspan class="d">;;</tspan><tspan class="m">--------===-==</tspan></text>
+    <text class="art" style="animation-delay:3.41s" x="20.00" y="472.99" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="m">=</tspan><tspan class="d">;</tspan><tspan class="m">----========++==</tspan><tspan class="d">;</tspan><tspan class="m">-</tspan><tspan class="d">;</tspan><tspan class="m">-----=-----</tspan><tspan class="d">;;:;::;:::;;;:::;::</tspan><tspan class="m">--</tspan><tspan class="d">;;</tspan><tspan class="m">----</tspan><tspan class="d">;</tspan><tspan class="m">-=</tspan><tspan class="d">;</tspan><tspan class="m">------==----=--=--=--</tspan></text>
+    <text class="art" style="animation-delay:3.47s" x="20.00" y="481.63" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">;</tspan><tspan class="m">-=--=====--=+==-----------====-=</tspan><tspan class="d">;;</tspan><tspan class="m">=</tspan><tspan class="d">::;;:;;;;;;::;;</tspan><tspan class="m">---</tspan><tspan class="d">;</tspan><tspan class="m">--==-=--==------=--====--==-=</tspan></text>
+    <text class="art" style="animation-delay:3.54s" x="20.00" y="490.27" font-size="8.64" textLength="450.00" lengthAdjust="spacingAndGlyphs"><tspan class="d">;;</tspan><tspan class="m">-=-=====-==-=-----==---=-=====-=</tspan><tspan class="d">;</tspan><tspan class="m">=</tspan><tspan class="d">::;</tspan><tspan class="m">-+==</tspan><tspan class="d">;;</tspan><tspan class="m">=-</tspan><tspan class="d">;;;</tspan><tspan class="m">------=---=-==-===---=---=--</tspan><tspan class="d">;</tspan><tspan class="m">-----</tspan></text>
+    <text class="ln" style="animation-delay:3.60s" x="20" y="520" font-size="12" fill="#8b949e">render complete · 50×84 glyphs <tspan class="cur" fill="#22c55e">█</tspan></text>
+  </g>
+</svg>
