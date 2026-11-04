@@ -77,7 +77,7 @@ I don’t just build apps — I bend them to my will
 
 ### 🌐 Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=4" alt="Deployment" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,render" alt="Deployment" />
 </p>
 
 </td>
