@@ -28,11 +28,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 Frontend &amp; UI</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&perline=8" alt="Frontend skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next&perline=7" alt="Frontend skills" />
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend &amp; Database</h3>
-      <img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,firebase&perline=8" alt="Backend skills" />
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,firebase&perline=7" alt="Backend skills" />
     </td>
   </tr>
   <tr>
