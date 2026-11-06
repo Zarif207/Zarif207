@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛠 Tools &amp; DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=4" alt="Tools" />
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Deployment</h3>
