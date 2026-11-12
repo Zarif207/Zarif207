@@ -33,8 +33,11 @@
     <td width="50%" align="center" valign="top">
       <h3 align="center">⚙️ Backend &amp; Database</h3>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" />
-  <img src="https://cdn.simpleicons.org/mongoose/880000" height="48" alt="Mongoose" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" height="100" alt="Backend technologies" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="40" alt="Mongoose" />
 </p>
     </td>
   </tr>
