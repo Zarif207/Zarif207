@@ -32,13 +32,13 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">⚙️ Backend &amp; Database</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=python,nodejs,express,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🛠 Tools &amp; DevOps</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" alt="Tools" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&perline=5" alt="Tools" /></p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🌐 Deployment</h3>
