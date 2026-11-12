@@ -26,20 +26,24 @@
 
 <table width="100%">
   <tr>
-    <td width="200" valign="middle"><h3>🎨 Frontend &amp; UI</h3></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=js,tailwind,react,ts,next&perline=6" alt="Frontend skills" /></td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🎨 Frontend &amp; UI</h3>
+      <p align="center"><img src="https://skillicons.dev/icons?i=js,tailwind,react,ts,next&perline=5" alt="Frontend skills" /></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">⚙️ Backend &amp; Database</h3>
+      <p align="center"><img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=5" alt="Backend skills" /></p>
+    </td>
   </tr>
   <tr>
-    <td width="200" valign="middle"><h3>⚙️ Backend &amp; Database</h3></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=python,nodejs,express,docker,prisma,mongodb,redis,postgres,nestjs,firebase&perline=6" alt="Backend skills" /></td>
-  </tr>
-  <tr>
-    <td width="200" valign="middle"><h3>🛠 Tools &amp; DevOps</h3></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=6" alt="Tools" /></td>
-  </tr>
-  <tr>
-    <td width="200" valign="middle"><h3>🌐 Deployment</h3></td>
-    <td valign="middle"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=6" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🛠 Tools &amp; DevOps</h3>
+      <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" alt="Tools" /></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🌐 Deployment</h3>
+      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions&perline=4" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></p>
+    </td>
   </tr>
 </table>
 
