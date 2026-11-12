@@ -42,7 +42,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Deployment</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify" alt="Deployment" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=5" alt="Deployment" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
     </td>
   </tr>
 </table>
