@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Deployment</h3>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=5" alt="Deployment" />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=7" alt="Deployment" />
       <img src="./assets/render.svg" width="56" height="48" alt="Render" />
     </td>
   </tr>
