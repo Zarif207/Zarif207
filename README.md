@@ -38,11 +38,11 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🛠 Tools &amp; DevOps</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=5" alt="Tools" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,githubactions&perline=5" alt="Tools" /></p>
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🌐 Deployment</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=5" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,nginx&perline=4" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></p>
     </td>
   </tr>
 </table>
