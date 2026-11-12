@@ -42,7 +42,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🌐 Deployment</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions&perline=4" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,githubactions,nginx&perline=5" alt="Deployment" /><img src="./assets/render.svg" width="56" height="48" alt="Render" /></p>
     </td>
   </tr>
 </table>
