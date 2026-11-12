@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Deployment</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,render" alt="Deployment" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify" alt="Deployment" />
     </td>
   </tr>
 </table>
