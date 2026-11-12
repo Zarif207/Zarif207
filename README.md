@@ -24,7 +24,7 @@
 
 <h2>🧩 Tech Multiverse</h2>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <h3 align="center">🎨 Frontend &amp; UI</h3>
